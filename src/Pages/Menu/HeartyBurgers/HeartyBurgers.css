@@ -1,0 +1,10 @@
+.hearty-burgers h1 {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.hearty-burgers img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
